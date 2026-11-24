@@ -44,7 +44,7 @@ Comunicación serial: 9600 baudios, 8 bits de datos, sin paridad, 1 bit de parad
 ## Cómo probarlo
 
 ### En Wokwi
-1. Abrir el proyecto en [wokwi.com](https://wokwi.com/) cargando `sketch.ino` y `diagram.json`.
+1. Abrir el proyecto en [wokwi.com](https://wokwi.com/projects/481321369351005185).
 2. Iniciar la simulación.
 3. En el monitor serial, enviar un carácter (`V`, `R`, `A` o `0`) y observar la respuesta y el cambio de estado de los LEDs.
 
